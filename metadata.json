@@ -1,0 +1,7 @@
+{
+  "name": "YapYap - Social Vibe Playground",
+  "description": "🗣️ A gamified social simulator using Gemini Live API to practice small talk, master the vibe, and conquer social anxiety.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
